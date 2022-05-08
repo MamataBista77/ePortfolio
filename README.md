@@ -1,4 +1,4 @@
-# ePortfolio12333344445555
+# ePortfolio
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
 - We learn this Communication concept in week 1 and in this I learn channels which have source and receiver.
